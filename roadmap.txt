@@ -15,6 +15,7 @@ Docker + Linux + Git
 Transformers + PyTorch
 
 Vector Databases
+
 RAG
 LangGraph
 MCP
