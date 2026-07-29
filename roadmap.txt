@@ -7,7 +7,6 @@ OOP + Design Patterns
 Async Programming
 
 FastAPI
-
 SQL + SQLAlchemy
 Docker + Linux + Git
 Transformers + PyTorch
