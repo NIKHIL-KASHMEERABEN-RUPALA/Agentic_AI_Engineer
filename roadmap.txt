@@ -17,7 +17,6 @@ Transformers + PyTorch
 Vector Databases
 
 RAG
-
 LangGraph
 MCP
 Multi-Agent Systems
