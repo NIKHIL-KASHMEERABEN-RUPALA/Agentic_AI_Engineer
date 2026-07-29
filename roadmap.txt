@@ -9,7 +9,6 @@ Async Programming
 FastAPI
 
 SQL + SQLAlchemy
-
 Docker + Linux + Git
 Transformers + PyTorch
 Vector Databases
