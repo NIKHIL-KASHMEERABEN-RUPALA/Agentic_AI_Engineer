@@ -5,6 +5,7 @@ Data Structures & Algorithms
 OOP + Design Patterns
 
 Async Programming
+
 FastAPI
 SQL + SQLAlchemy
 Docker + Linux + Git
