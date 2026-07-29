@@ -1,5 +1,4 @@
 Advanced Python
-
 Data Structures & Algorithms
 OOP + Design Patterns
 Async Programming
