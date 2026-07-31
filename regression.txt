@@ -7,3 +7,15 @@ You have two things you are looking at:
     X (The Independent Variable): The thing you already know or can control (e.g., hours studied).
 
     Y (The Dependent Variable): The thing you are trying to guess or predict (e.g., your exam score). Your score depends on how much you studied.
+
+
+Y = b_0 + b_1X_1
+
+    This is just the classic equation for a straight line 
+    (you might remember $y = mx + c$ from school), broken into parts:
+    Y: The prediction you want to find.
+    
+    b_0 (The Intercept): The starting point. This is what Y would be if X was exactly zero.
+     For example, if you study for 0 hours, what is your baseline score
+     
+     b_1 (The Slope / Coefficient): The multiplier. This tells you how much $Y$ changes every time $X$ goes up by 1. If $b_1$ is 5, it means every extra hour you study adds 5 points to your score.$X_1$: The actual value you plug into the formula (e.g., 4 hours of studying).
