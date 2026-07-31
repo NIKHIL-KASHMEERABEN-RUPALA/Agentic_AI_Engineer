@@ -44,3 +44,7 @@ OLS(ordinary least square):
     will cancel each other out. To fix this, we square every single error (which makes them all positive numbers).
 
 The term Residual Sum of Squares (RSS) just means: "Square all the errors, and add them all up."
+
+3. What does OLS actually do?
+    The slide says: "OLS minimizes the Residual Sum of Squares (RSS)"This means OLS is an algorithm that tweaks the starting point ($b_0$)
+    and the slope ($b_1$) of your line over and over again until the total squared error is as small (minimum) as humanly possible.
