@@ -25,4 +25,5 @@ Y = b_0 + b_1X_1
 
 
 OLS(ordinary least square):
+    perfect best-fit line
     
