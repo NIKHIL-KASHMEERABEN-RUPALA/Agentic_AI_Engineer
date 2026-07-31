@@ -6,4 +6,4 @@ The Main Idea
 You have two things you are looking at:
     X (The Independent Variable): The thing you already know or can control (e.g., hours studied).
 
-    
+    Y (The Dependent Variable): The thing you are trying to guess or predict (e.g., your exam score). Your score depends on how much you studied.
