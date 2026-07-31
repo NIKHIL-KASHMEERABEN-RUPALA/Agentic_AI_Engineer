@@ -23,3 +23,6 @@ Y = b_0 + b_1X_1
      X_1: The actual value you plug into the formula (e.g., 4 hours of studying).
 
 
+
+OLS(ordinary least square):
+    
