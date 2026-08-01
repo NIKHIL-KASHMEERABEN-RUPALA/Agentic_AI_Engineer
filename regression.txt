@@ -43,6 +43,7 @@ OLS(ordinary least square):
     If you just add up all the errors, positive errors (line guessed too low) and negative errors (line guessed too high)
     will cancel each other out. To fix this, we square every single error (which makes them all positive numbers).
 
+
 The term Residual Sum of Squares (RSS) just means: "Square all the errors, and add them all up."
 
 
