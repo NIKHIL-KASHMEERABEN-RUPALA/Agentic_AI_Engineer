@@ -16,6 +16,7 @@ Y = b_0 + b_1X_1
     Y: The prediction you want to find.
     
     b_0 (The Intercept): The starting point. This is what Y would be if X was exactly zero.
+    
      For example, if you study for 0 hours, what is your baseline score
      
      b_1 (The Slope / Coefficient): The multiplier. This tells you how much Y changes every time $X$ goes up by 1. If $b_1$ is 5, it means every extra hour you study adds 5 points to your score.
