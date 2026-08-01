@@ -36,6 +36,7 @@ OLS(ordinary least square):
      
      .Residual (E_i): The error gap between them (y_i - hat{y}_i).
      In plain English: If you actually sold 100 units (y_i),
+ 
       but your line predicted you'd sell 95 units (hat{y}_i), your residual (error) is $100 - 95 = 5$.
 
 
