@@ -25,7 +25,7 @@ Y = b_0 + b_1X_1
 
 OLS(ordinary least square):
     perfect best-fit line
-    Think of O LS as a game of trying to draw a line that gets as close as possible to all your data points at once.
+    Think of OLS as a game of trying to draw a line that gets as close as possible to all your data points at once.
 
     What is a "Residual"? (The Error)
     When you use your formula to predict sales based on an advertising budget, your prediction won't always be 100% perfect.
