@@ -24,7 +24,6 @@ Y = b_0 + b_1X_1
 
 
 
-
 OLS(ordinary least square):
     perfect best-fit line
     Think of OLS as a game of trying to draw a line that gets as close as possible to all your data points at once.
