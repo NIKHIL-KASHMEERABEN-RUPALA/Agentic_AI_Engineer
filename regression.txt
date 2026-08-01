@@ -12,6 +12,7 @@ You have two things you are looking at:
 Y = b_0 + b_1X_1
 
     This is just the classic equation for a straight line 
+    
     (you might remember $y = mx + c$ from school), broken into parts:
     Y: The prediction you want to find.
     
