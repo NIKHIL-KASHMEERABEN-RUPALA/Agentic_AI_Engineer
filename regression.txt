@@ -39,7 +39,6 @@ OLS(ordinary least square):
       but your line predicted you'd sell 95 units (hat{y}_i), your residual (error) is $100 - 95 = 5$.
 
 
-
 2. Why "Least Squares"?
     If you just add up all the errors, positive errors (line guessed too low) and negative errors (line guessed too high)
     will cancel each other out. To fix this, we square every single error (which makes them all positive numbers).
