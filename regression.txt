@@ -29,7 +29,6 @@ OLS(ordinary least square):
 
     What is a "Residual"? (The Error)
     When you use your formula to predict sales based on an advertising budget, your prediction won't always be 100% perfect.
-     
      There will be a gap between reality and your guess.y_i (Actual Value): The real sales you actually made in the past.
        
      hat{y}_i (Predicted Value): The sales value your straight line thinks you made
