@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+lightgbm
+mlxtend
+kmodes
+umap-learn
+openpyxl
+pyarrow
+statsmodels
+ipykernel
+google-generativeai
