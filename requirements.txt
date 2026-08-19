@@ -8,7 +8,6 @@ scikit-learn
 xgboost
 lightgbm
 mlxtend
-
 kmodes
 umap-learn
 openpyxl
