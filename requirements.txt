@@ -15,4 +15,3 @@ pyarrow
 statsmodels
 ipykernel
 google-generativeai
-
