@@ -9,6 +9,7 @@ You have two things you are looking at:
     Y (The Dependent Variable): The thing you are trying to guess or predict (e.g., your exam score). Your score depends on how much you studied.
 
 
+
 Y = b_0 + b_1X_1
 
     This is just the classic equation for a straight line 
