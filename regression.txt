@@ -1,4 +1,4 @@
-Imagine you are trying to predict something, like how high your electricity bill will be based on the temperature outside, or how well you'll score on an exam based on the hours you stu
+Imagine you are trying to predict something, like how high your electricity bill will be based on the temperature outside, or how well you'll score on an exam based on the hours you st
 
 Simple Linear Regression is just a math tool that lets you draw a straight line through your data points to make those kinds of predictions.
 
